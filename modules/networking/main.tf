@@ -5,7 +5,7 @@ locals {
     project      = var.project
     owner       = var.owner
     administrator = var.administrator
-    }
+  }
 }
 
 # vpc
